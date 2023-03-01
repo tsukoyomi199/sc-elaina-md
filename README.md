@@ -7,7 +7,7 @@
 
 > **Warning**: Jangan Memperjual Belikan Script Ini. 
 > **Note**: Buat Yg Minta Modules Terpisah : https://www.mediafire.com/file/28sddjopmyh8mxp/node_modules.zip/file
-<h1 align="center">ElainaBOT - MD</h1>
+<h1 align="center">Ollie Botz</h1>
 <p align="center">
   <a href="https://github.com/ImYanXiao"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Elaina+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
